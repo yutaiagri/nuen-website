@@ -1,0 +1,6 @@
+# NUEN Electric Vehicles — robots.txt
+# NOTE: replace www.nuenev.com with your real domain after deployment
+User-agent: *
+Allow: /
+
+Sitemap: https://yutaiagri.github.io/nuen-website/sitemap.xml

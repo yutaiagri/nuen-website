@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NOTE: replace www.nuenev.com with your real domain after deployment -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://yutaiagri.github.io/nuen-website/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://yutaiagri.github.io/nuen-website/products.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://yutaiagri.github.io/nuen-website/about.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://yutaiagri.github.io/nuen-website/contact.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>
